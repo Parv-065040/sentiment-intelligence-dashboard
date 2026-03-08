@@ -1,0 +1,13 @@
+{
+    "vocab_size": 118,
+    "max_len": 100,
+    "embedding_dim": 100,
+    "batch_size": 64,
+    "epochs": 30,
+    "num_classes": 3,
+    "label_map": {
+        "positive": 2,
+        "neutral": 1,
+        "negative": 0
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "accuracy": 1.0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1_score": 1.0,
+    "cohen_kappa": 1.0,
+    "log_loss": 6.93933305486858e-06,
+    "roc_auc": 1.0,
+    "inference_time": 17.03396463394165,
+    "training_time": 2030.3861331939697,
+    "total_params": 420095,
+    "epochs_run": 30,
+    "best_val_acc": 1.0,
+    "best_val_loss": 6.901660526636988e-06
+}
