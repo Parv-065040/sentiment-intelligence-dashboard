@@ -477,11 +477,14 @@ elif page == '⚙️ Model Architecture':
             fig.add_annotation(x=0.5,y=len(layers)-i-0.6,ax=0.5,ay=len(layers)-i-0.4,
                 xref='x',yref='y',axref='x',ayref='y',
                 showarrow=True,arrowhead=2,arrowcolor='rgba(255,255,255,0.5)',arrowwidth=2)
-   fig.update_layout(paper_bgcolor='rgba(0,0,0,0)', plot_bgcolor='rgba(0,0,0,0)',
-        font=dict(color='white', family='Inter'), height=700,
-        xaxis=dict(visible=False, range=[0,2]), yaxis=dict(visible=False))
-    st.plotly_chart(fig, use_container_width=True)
-
+   fig.update_layout(
+        paper_bgcolor='rgba(0,0,0,0)',
+        plot_bgcolor='rgba(0,0,0,0)',
+        font=dict(color='white', family='Inter'),
+        height=700,
+        xaxis=dict(visible=False, range=[0,2]),
+        yaxis=dict(visible=False)
+    )
 st.markdown('''<div class="footer">
     🧠 SentIQ | Bi-LSTM + Attention | TensorFlow + Streamlit | Deep Learning for Managers
 </div>''', unsafe_allow_html=True)
