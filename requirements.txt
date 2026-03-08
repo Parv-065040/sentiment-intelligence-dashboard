@@ -1,0 +1,14 @@
+pandas
+numpy
+tensorflow
+scikit-learn
+nltk
+vaderSentiment
+afinn
+plotly
+matplotlib
+seaborn
+wordcloud
+contractions
+textblob
+Pillow
