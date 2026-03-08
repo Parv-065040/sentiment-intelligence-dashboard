@@ -1,6 +1,5 @@
 pandas
 numpy
-tensorflow
 scikit-learn
 nltk
 vaderSentiment
@@ -12,3 +11,4 @@ wordcloud
 contractions
 textblob
 Pillow
+keras
