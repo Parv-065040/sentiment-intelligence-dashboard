@@ -144,7 +144,7 @@ Output Layer         (3 units, Softmax)
 ## 🚀 Deployment
 
 ### Live App
-🔗 **[Launch Dashboard](https://sentiment-intelligence-dashboard.streamlit.app)**
+🔗 **[Launch Dashboard](https://sentiment-intelligence-dashboard-pmvvvbkkr2q9b4p56r9wlk.streamlit.app/)**
 
 ### Tech Stack
 | Component | Technology |
