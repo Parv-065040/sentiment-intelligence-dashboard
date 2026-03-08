@@ -11,4 +11,4 @@ wordcloud
 contractions
 textblob
 Pillow
-keras
+tensorflow-cpu
